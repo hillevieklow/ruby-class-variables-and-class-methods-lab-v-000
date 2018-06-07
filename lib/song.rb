@@ -49,6 +49,6 @@ class Song
       end
     end
     artist_hash
-  endle
+  end
 
 end
